@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingNotesCom", "VikingNotesCom\VikingNotesCom.csproj", "{97642144-FAF1-435D-AB18-91546CE72D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97642144-FAF1-435D-AB18-91546CE72D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97642144-FAF1-435D-AB18-91546CE72D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97642144-FAF1-435D-AB18-91546CE72D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97642144-FAF1-435D-AB18-91546CE72D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA415D38-9CA5-47BF-B998-D49FD72ADABB}
+	EndGlobalSection
+EndGlobal
